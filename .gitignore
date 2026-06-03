@@ -1,0 +1,7 @@
+# Obsidian per-machine state (config like app.json / core-plugins.json IS tracked)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.trash/
+
+.DS_Store
